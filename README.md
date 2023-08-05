@@ -11,6 +11,11 @@ This is a case study in which an Exploratory Data Anlaysis is done on a dataset 
 #### -  The top two actors with movies having a median rating of more than 8 are Mammootty with 8 movies followed by Mohanlal with 5 movies.
 #### -  Based on total votes for their movies, the top three production houses are Marvel Studios, Twentieth Century Fox and Warner Bros.
 #### -  The top 3 actors in India based on average ratings are Vijay Sethupathi, Fahadh Faasil and Yogi Babu.
+#### - Similarly, the top 3 actresses are Tapsee Pannu, Divya Dutta and Kriti Kharbanda.
+#### - The production houses that have produced the highest number of hits among multilingual movies are: Star Cinema and Twentieth Century Fox with 7 and 4 movies respectively.
+#### - Based on number of movies made, the top 3 directors are A.L. Vijay, Andrew Jones and Steven Soderbergh respectively.
+
+
 
 
 
