@@ -14,6 +14,12 @@ This is a case study in which an Exploratory Data Anlaysis is done on a dataset 
 #### - Similarly, the top 3 actresses are Tapsee Pannu, Divya Dutta and Kriti Kharbanda.
 #### - The production houses that have produced the highest number of hits among multilingual movies are: Star Cinema and Twentieth Century Fox with 7 and 4 movies respectively.
 #### - Based on number of movies made, the top 3 directors are A.L. Vijay, Andrew Jones and Steven Soderbergh respectively.
+#### - In Comedy 2017, 2018 and 2019 the highest grossing films were Despicable Me 3, Deadpool 2 and Toy Story 4 respectively.
+#### - In Drama 2017, 2018 and 2019 the highest grossing films were Zhan lang II, Bohemian Rhapsody and Avengers: Endgame respectively.
+#### - In Thriller 2017, 2018 and 2019 the highest grossing films were The Fate of the Furious, Venom and Joker  respectively.
+
+
+
 
 
 
